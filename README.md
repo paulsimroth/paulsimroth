@@ -1,4 +1,4 @@
-### Hi there 👋 I´m Paul
+# Hi there 👋 I´m Paul
 
 ## Passionate blockchain developer from Austria
 
