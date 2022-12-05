@@ -6,7 +6,7 @@
 - 💬 I´m a self taught programmer and Moralis Academy student.
 
 - 📫 How to reach me: paul.simroth@proton.me
-- ⚡ You can find my projects here: https://paulsimroth.github.io/
+- ⚡ You can find my projects here: <a target="_blank" href="https://paulsimroth.github.io/">https://paulsimroth.github.io/</a>
 
 ## Connect with me
 <a target="_blank" href="https://www.linkedin.com/in/paul-simroth/">
