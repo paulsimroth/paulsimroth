@@ -23,4 +23,4 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsimroth)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsimroth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
