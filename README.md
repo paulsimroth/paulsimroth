@@ -24,8 +24,8 @@
 ### :hammer_and_wrench: other Tools :
 > - Git
 > - Truffle
-> - OpenZeppelin
 > - Hardhat
+> - OpenZeppelin
 
 
 ### :fire: My Stats :
