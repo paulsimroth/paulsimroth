@@ -21,7 +21,7 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 
-### :hammer_and_wrench: other Tools :
+### :hammer_and_wrench: Other Tools :
 > - Git
 > - Truffle
 > - Hardhat
