@@ -22,10 +22,12 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 
 ### :hammer_and_wrench: Other Tools :
-> - Git
-> - Truffle
-> - Hardhat
-> - OpenZeppelin
+- Git
+- [Truffle](https://trufflesuite.com/docs/truffle/) (Development Framework)
+- [Ganache](https://trufflesuite.com/docs/truffle/) (Development Blockchain)
+- [Hardhat](https://hardhat.org/) (Development Framework)
+- [Ethers](https://docs.ethers.io/v5/) (Blockchain Interaction)
+- [OpenZeppelin](https://www.openzeppelin.com/contracts)
 
 
 ### :fire: My Stats :
