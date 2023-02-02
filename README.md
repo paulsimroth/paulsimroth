@@ -29,6 +29,7 @@
 - [Ethers](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [OpenZeppelin](https://www.openzeppelin.com/contracts) (Smart Contract Library)
 
+Thanks for visiting my profile!
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsimroth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
