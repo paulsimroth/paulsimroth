@@ -2,7 +2,7 @@
 
 ## Passionate blockchain developer from Austria.
 
-- 👯 I’m looking to collaborate on projects, big or small
+- 👯 I’m looking to collaborate on projects and expand my skillset
 - 💬 I´m a self taught programmer and Moralis Academy student.
 
 - 📫 How to reach me: paul.simroth@proton.me
