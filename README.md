@@ -2,13 +2,13 @@
 
 ## Passionate blockchain developer from Austria.
 
-- 👯 I’m looking to collaborate on projects and expand my skillset
+- 👯 I’m looking to collaborate on projects and expand my skillset.
 - 💬 I´m a self taught programmer and Moralis Academy student.
 
 - 📫 How to reach me: paul.simroth@proton.me
 - ⚡ You can find my projects here: [Portfolio Page](https://paulsimroth.github.io/)
 
-## Connect with me
+## Connect with me!
 <a target="_blank" href="https://www.linkedin.com/in/paul-simroth/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
