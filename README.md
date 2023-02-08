@@ -29,6 +29,7 @@
 - [Ganache](https://trufflesuite.com/docs/truffle/) (Development Blockchain)
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Ethers](https://docs.ethers.io/v5/) (Blockchain Interaction)
+- [Moralis](https://moralis.io/) (Blockchain Data API)
 - [OpenZeppelin](https://www.openzeppelin.com/contracts) (Smart Contract Library)
 
 Thanks for visiting my profile!
