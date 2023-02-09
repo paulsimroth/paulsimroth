@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on projects and expand my skillset.
 - 💬 I´m a self taught programmer and Moralis Academy student.
-
+- Currently learning TypeScript
 - 📫 How to reach me: paul.simroth@proton.me
 - ⚡ You can find my projects here: [Portfolio Page](https://paulsimroth.github.io/)
 
@@ -17,6 +17,7 @@
 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
