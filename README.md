@@ -31,6 +31,7 @@
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Ethers](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [Moralis](https://moralis.io/) (Blockchain Data API)
+- [Firebase](https://firebase.google.com/) (Authentication and Database)
 
 Thanks for visiting my profile!
 
