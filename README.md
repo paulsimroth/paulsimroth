@@ -2,9 +2,9 @@
 
 ## Passionate blockchain developer from Austria.
 
-- 👯 I’m looking to collaborate on projects and expand my skillset.
+- 👯 Passionate about blockchain and its future, looking to make an impact.
 - 💬 I´m a self taught programmer and Moralis Academy student.
-- Currently learning TypeScript
+- :bulb: Currently learning TypeScript
 - 📫 How to reach me: paul.simroth@proton.me
 - ⚡ You can find my projects here: [Portfolio Page](https://paulsimroth.github.io/)
 
