@@ -6,7 +6,7 @@
 - 💬 I´m a self taught programmer and Moralis Academy student.
 - :bulb: Currently learning TypeScript
 - 📫 How to reach me: paul.simroth@proton.me
-- ⚡ You can find my projects here: [Portfolio Page](https://paulsimroth.github.io/)
+- ⚡ You can find my projects here on GitHub or on my [Portfolio Page](https://paulsimroth.github.io/)
 
 ## Connect with me!
 <a target="_blank" href="https://www.linkedin.com/in/paul-simroth/">
