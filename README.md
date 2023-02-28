@@ -26,10 +26,10 @@
 
 ### :hammer_and_wrench: Other Tools :
 - Git
-- [Truffle](https://trufflesuite.com/docs/truffle/) (Development Framework)
+- [Truffle](https://trufflesuite.com/docs/truffle/) (Smart Contract Development Framework)
 - [Ganache](https://trufflesuite.com/docs/truffle/) (Development Blockchain)
-- [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers](https://docs.ethers.io/v5/) (Blockchain Interaction)
+- [Hardhat](https://hardhat.org/) (Smart Contract Development Framework)
+- [Ethers](https://docs.ethers.io/v5/) (Blockchain Interactions)
 - [Moralis](https://moralis.io/) (Blockchain Data API)
 - [Firebase](https://firebase.google.com/) (Authentication and Database)
 
