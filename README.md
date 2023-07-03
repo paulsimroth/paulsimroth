@@ -32,6 +32,7 @@
 - [Ethers](https://docs.ethers.io/v5/) (Blockchain Interactions)
 - [Moralis](https://moralis.io/) (Blockchain Data API)
 - [Firebase](https://firebase.google.com/) (Authentication and Database)
+- [MongoDB](https://www.mongodb.com/) (SQL Database)
 
 Thanks for visiting my profile!
 
