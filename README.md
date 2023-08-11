@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsimroth&label=Profile%20views&color=0e75b6&style=flat" alt="paulsimroth" /> </p>
 
-- 🚀🌍 My GitHub is a canvas of projects and contributions that reflect my excitement for innovation and collaboration. Let's connect, innovate, and create a decentralized future together! 
-- 📧🌐 Feel free to drop me an email at [mail@simroth.at](mailto:mail@simroth.at) to chat about exciting projects and ideas!
-- ⚡🌐 Don't forget to explore my [Portfolio Page](https://www.paulsimroth.at/) to see my journey unfold and to see my previous work! Let's collaborate and innovate together!
+- 🌍🚀My GitHub is a canvas of projects and contributions that reflect my excitement for innovation and collaboration. Let's connect, innovate, and create a decentralized future together! 
+- 📧 Feel free to drop me an email at [mail@simroth.at](mailto:mail@simroth.at) to chat about exciting projects and ideas!
+- 🌐 Don't forget to explore my [Portfolio Page](https://www.paulsimroth.at/) to see my journey unfold and to see my previous work! Let's collaborate and innovate together!
 
 ## Connect with me!
 
