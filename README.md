@@ -3,7 +3,7 @@
 ## a passionate blockchain enthusiast and Solidity developer from Austria on a mission to harness the power of Web3.
 
 - 🚀🌍 My GitHub is a canvas of projects and contributions that reflect my excitement for innovation and collaboration. Let's connect, innovate, and create a decentralized future together! 
-- 📫 Feel free to drop me an email at [mail@simroth.at](mailto:mail@simroth.at) to chat about projects and ideas!
+- 📫 Feel free to drop me an email at [mail@simroth.at](mailto:mail@simroth.at) to chat about exciting projects and ideas!
 - ⚡ Don't forget to explore my [Portfolio Page](https://www.paulsimroth.at/) to see my journey unfold and to see my previous work! Let's collaborate and innovate together! 🚀📧🌐
 
 ## Connect with me!
