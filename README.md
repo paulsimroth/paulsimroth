@@ -1,11 +1,10 @@
 # Hi there 👋 I´m Paul
 
-## Passionate blockchain developer from Austria.
+## a passionate blockchain enthusiast and Solidity developer from Austria on a mission to harness the power of Web3.
 
-- 👯 Passionate about blockchain and its future, looking to make an impact.
-- 💬 I´m a self taught programmer and Moralis Academy student.
-- 📫 How to reach me: mail@simroth.at
-- ⚡ You can find my projects here on GitHub or on my [Portfolio Page](https://www.paulsimroth.at/)
+- 🚀🌍 My GitHub is a canvas of projects and contributions that reflect my excitement for innovation and collaboration. Let's connect, innovate, and create a decentralized future together! 
+- 📫 Feel free to drop me an email at [mail@simroth.at](mailto:mail@simroth.at) to chat about projects and ideas!
+- ⚡ Don't forget to explore my [Portfolio Page](https://www.paulsimroth.at/) to see my journey unfold and to see my previous work! Let's collaborate and innovate together! 🚀📧🌐
 
 ## Connect with me!
 <a target="_blank" href="https://www.linkedin.com/in/paul-simroth/">
@@ -32,8 +31,6 @@
 - [Moralis](https://moralis.io/) (Blockchain Data API)
 - [Firebase](https://firebase.google.com/) (Authentication and Database)
 - [MongoDB](https://www.mongodb.com/) (SQL Database)
-
-Thanks for visiting my profile!
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulsimroth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
