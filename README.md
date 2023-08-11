@@ -9,12 +9,9 @@
 - ⚡🌐 Don't forget to explore my [Portfolio Page](https://www.paulsimroth.at/) to see my journey unfold and to see my previous work! Let's collaborate and innovate together!
 
 ## Connect with me!
-<p align="left">
-<a href="https://linkedin.com/in/paul-simroth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-simroth" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20722280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20722280" height="30" width="40" /></a>
-<a href="https://fb.com/paul.simroth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paul.simroth" height="30" width="40" /></a>
-<a href="https://instagram.com/paul.si96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paul.si96" height="30" width="40" /></a>
-</p>
+
+<a href="https://linkedin.com/in/paul-simroth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-simroth" height="44" width="44" /></a>
+
 
 ### :hammer_and_wrench: Languages and Frameworks :
 
