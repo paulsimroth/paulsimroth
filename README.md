@@ -19,7 +19,7 @@
 <code><img height="44" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="44" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="44" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="44" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg"></code>
+<code><img width="44" height="44" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" /></code>
 <code><img height="44" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"></code>
 <code><img height="44" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"></code>
 <code><img height="44" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
