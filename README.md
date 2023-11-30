@@ -1,4 +1,4 @@
-<img src="https://github.com/paulsimroth/paulsimroth/assets/93916441/aa63466e-e9a9-4665-bd8f-fe5e45da36b6" height="530" width="1520" alt="paul simroth cover" />
+<img src="https://github.com/paulsimroth/paulsimroth/assets/93916441/aa63466e-e9a9-4665-bd8f-fe5e45da36b6" height="350" width="1520" alt="paul simroth cover" />
 
 # Hi there 👋 I´m Paul
 
