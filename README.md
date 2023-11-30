@@ -1,3 +1,5 @@
+<img src="https://github.com/paulsimroth/paulsimroth/assets/93916441/aa63466e-e9a9-4665-bd8f-fe5e45da36b6" height="80" alt="paul simroth cover" />
+
 # Hi there 👋 I´m Paul
 
 ## a passionate blockchain enthusiast and Solidity developer from Austria on a mission to harness the power of Web3.
