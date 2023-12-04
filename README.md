@@ -1,8 +1,9 @@
 <img src="https://github.com/paulsimroth/paulsimroth/assets/93916441/aa63466e-e9a9-4665-bd8f-fe5e45da36b6" height="260" width="1520" alt="paul simroth cover" />
 
+<div align="center">
 <h1> Hi there 👋 I´m Paul</h1>
-
-<h2> a passionate blockchain enthusiast and Solidity developer from Austria on a mission to harness the power of Web3.</h2>
+<h2> I´m a passionate developer from Austria on a mission to harness the power of Web3.</h2>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsimroth&label=Profile%20views&color=0e75b6&style=flat" alt="paulsimroth" /> </p>
 
@@ -19,9 +20,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,javascript,ts,nodejs,github" />
+    <img src="https://skillicons.dev/icons?i=solidity,javascript,ts,nodejs,nextjs,react,tailwind,mongodb" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=vercel,prisma,git,github,vscode" />
   </a>
 </div>
 
@@ -32,8 +33,6 @@
 - [Hardhat](https://hardhat.org/) (Smart Contract Development Framework)
 - [Ethers](https://docs.ethers.io/v5/) (Blockchain Interactions)
 - [Moralis](https://moralis.io/) (Blockchain Data API)
-- [Firebase](https://firebase.google.com/) (Authentication and Database)
-- [MongoDB](https://www.mongodb.com/) (SQL Database)
 
 ### 🔥 My Stats :
 
