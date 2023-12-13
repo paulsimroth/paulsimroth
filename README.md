@@ -5,18 +5,20 @@
 <h2> I´m a passionate developer from Austria on a mission to harness the power of Web3.</h2>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulsimroth&label=Profile%20views&color=0e75b6&style=flat" alt="paulsimroth" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paulsimroth&label=Profile%20views&color=0e75b6&style=flat" alt="paulsimroth" /> </p>
 
-- 🌍🚀My GitHub is a canvas of projects and contributions that reflect my excitement for innovation and collaboration. Let's connect, innovate, and create a decentralized future together! 
+- 🌍 My GitHub is a canvas of projects and contributions that reflect my excitement for innovation and collaboration. Let's connect, innovate, and create a decentralized future together! 
 - 📧 Feel free to drop me an email at [mail@simroth.at](mailto:mail@simroth.at) to chat about exciting projects and ideas!
 - 🌐 Don't forget to explore my [Portfolio Page](https://www.paulsimroth.at/) to see my journey unfold and to see my previous work! Let's collaborate and innovate together!
+- 🚀 Visit my [Blog](https://www.paulsimroth.at/blog) to find out more details about my projects and web3 in general!
 
-## Connect with me!
-
+<div align="center">
+<h2> Connect with me!</h2>
 <a href="https://linkedin.com/in/paul-simroth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-simroth" height="44" width="44" /></a>
+</div>
 
-
-### 🛠 Languages, Frameworks & Tools :
+<div align="center">
+<h2> 🛠 Languages, Frameworks & Tools : </h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -26,7 +28,8 @@
   </a>
 </div>
 
-### 🛠 Other Tools :
+<h3> 🛠 Other Tools :</h3>
+</div>
 
 - [Truffle](https://trufflesuite.com/docs/truffle/) (Smart Contract Development Framework)
 - [Ganache](https://trufflesuite.com/docs/truffle/) (Development Blockchain)
@@ -34,8 +37,8 @@
 - [Ethers](https://docs.ethers.io/v5/) (Blockchain Interactions)
 - [Moralis](https://moralis.io/) (Blockchain Data API)
 
-### 🔥 My Stats :
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsimroth&show_icons=true&locale=en&layout=compact" alt="paulsimroth" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulsimroth&" alt="paulsimroth" /></p>
+<div align="center">
+<h2> 🔥 My Stats :</h2>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsimroth&show_icons=true&locale=en&layout=compact" alt="paulsimroth" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=paulsimroth&" alt="paulsimroth" /></p>
+</div>
