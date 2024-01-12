@@ -31,6 +31,7 @@
 <h3> 🛠 Other Tools :</h3>
 </div>
 
+- [Foundry](https://book.getfoundry.sh/) (Smart Contract Development Tool)
 - [Truffle](https://trufflesuite.com/docs/truffle/) (Smart Contract Development Framework)
 - [Ganache](https://trufflesuite.com/docs/truffle/) (Development Blockchain)
 - [Hardhat](https://hardhat.org/) (Smart Contract Development Framework)
