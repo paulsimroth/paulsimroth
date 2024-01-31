@@ -10,11 +10,12 @@
 - 🌍 My GitHub is a canvas of projects and contributions that reflect my excitement for innovation and collaboration. Let's connect, innovate, and create a decentralized future together! 
 - 📧 Feel free to drop me an email at [mail@simroth.at](mailto:mail@simroth.at) to chat about exciting projects and ideas!
 - 🌐 Don't forget to explore my [Portfolio Page](https://www.paulsimroth.at/) to see my journey unfold and to see my previous work! Let's collaborate and innovate together!
-- 🚀 Visit my [Blog](https://www.paulsimroth.at/blog) to find out more details about my projects and web3 in general!
+- 🚀 Visit my [Blog](https://www.paulsimroth.at/blog) to find out more details about my projects and get web3 insights!
 
 <div align="center">
 <h2> Connect with me!</h2>
 <a href="https://linkedin.com/in/paul-simroth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-simroth" height="44" width="44" /></a>
+  <a href="https://medium.com/@paul.simroth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@paul.simroth" height="44" width="44" /></a>
 </div>
 
 <div align="center">
