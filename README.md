@@ -32,8 +32,29 @@ I'm Paul, a passionate developer from Austria with a deep interest in Web3 and B
 ## 🛠️ Languages, Frameworks & Tools
 
 <div align="center">
+  <!-- Programming Languages -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,javascript,ts,nodejs,nextjs,react,tailwind,mongodb,vercel,prisma,git,github,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=solidity,javascript,typescript" alt="Languages" />
+  </a>
+  <br/>
+  <!-- Frameworks & Libraries -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,tailwind,tensorflow" alt="Frameworks & Libraries" />
+  </a>
+  <br/>
+  <!-- Databases & Backend -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres" alt="Databases & Backend" />
+  </a>
+  <br/>
+  <!-- Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,docker" alt="Tools" />
+  </a>
+  <br/>
+  <!-- Deployment & Hosting -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Deployment & Hosting" />
   </a>
 </div>
 
