@@ -1,72 +1,45 @@
 <img src="https://github.com/paulsimroth/paulsimroth/assets/93916441/4bf4cdb2-4dcc-4130-a99d-e9936369d803" width="100%" alt="Paul Simroth GitHub Cover" />
 
 <div align="center">
-<h1> Hi there 👋 I'm Paul Simroth</h1>
-<h2> Passionate Developer from Austria</h2>
+<h1>Paul Simroth</h1>
+<h3>Full-Stack | Web3</h3>
+
+📧 [mail@simroth.at](mailto:mail@simroth.at) • 🌐 [paulsimroth.at](https://www.paulsimroth.at/) • 📝 [Blog](https://www.paulsimroth.at/blog) • 💼 [LinkedIn](https://linkedin.com/in/paul-simroth)
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paulsimroth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+---
 
+## 🎯 Tech Stack
+
+### **Full-Stack Web Development**
+```
+Framework: Next.js     • React       • TypeScript • Tailwind CSS
+Database:  PostgreSQL  • Drizzle ORM • Prisma ORM • MongoDB
+```
+
+### **Web3 & Blockchain**
+```
+Smart Contracts:  Solidity • Foundry • Hardhat
+Frontend:         Next.js  • Wagmi   • Ethers.js • React
+Testing:          Foundry  • Hardhat
+```
+
+### **Languages & Tools**
 <div align="center">
-<a href="https://www.paulsimroth.at/" target="_blank"><img src="https://img.shields.io/badge/Website-Visit%20Now-brightgreen?style=for-the-badge&logo=internet-explorer" alt="Website" /></a>
-<a href="mailto:mail@simroth.at"><img src="https://img.shields.io/badge/Email-Mail%20Me-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,solidity,nextjs,react,nodejs,tailwind,postgres,prisma,mongodb,git,docker,vercel,vscode" alt="Tech Stack" />
 </div>
 
-## 🌟 About Me
+---
 
-I'm Paul, a passionate developer from Austria with a deep interest in Web3 and Blockchain technology. I love to collaborate and innovate with Web3 and blockchain technology. Whether it's developing decentralized applications, smart contracts, or exploring new use cases, I'm committed to leveraging these technologies to create impactful solutions.
+## 💼 What I Build
 
-- 📧 Feel free to reach out at [mail@simroth.at](mailto:mail@simroth.at)!
-- 🌐 Explore my [Website](https://www.paulsimroth.at/) to see my journey and previous work!
-- 🚀 Check out my [Blog](https://www.paulsimroth.at/blog) for project details and Web3 insights!
+**Web Applications:** Production-ready full-stack apps with Next.js, PostgreSQL, and modern DevOps practices
 
-## 🤝 Connect with Me
+**Web3 Projects:** Smart contracts and dApps connecting blockchain functionality with intuitive frontends
 
-<div align="center">
-<a href="https://linkedin.com/in/paul-simroth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="44" width="44" /></a>
-<a href="https://medium.com/@paul.simroth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="44" width="44" /></a>
-</div>
+---
 
-## 🛠️ Languages, Frameworks & Tools
+## 📫 Get in Touch
 
-<div align="center">
-  <!-- Programming Languages -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,javascript,typescript" alt="Languages" />
-  </a>
-  <br/>
-  <!-- Frameworks & Libraries -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,tailwind,tensorflow" alt="Frameworks & Libraries" />
-  </a>
-  <br/>
-  <!-- Databases & Backend -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prisma,mongodb,postgres" alt="Databases & Backend" />
-  </a>
-  <br/>
-  <!-- Tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,docker" alt="Tools" />
-  </a>
-  <br/>
-  <!-- Deployment & Hosting -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Deployment & Hosting" />
-  </a>
-</div>
-
-## 🛠️ Blockchain Dev Tools
-
-- [Foundry](https://book.getfoundry.sh/) - Smart Contract Development Framework
-- [Hardhat](https://hardhat.org/) - Smart Contract Development Framework
-- [Truffle](https://trufflesuite.com/docs/truffle/) - Smart Contract Development Framework
-
-## 🔥 My Stats
-
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsimroth&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulsimroth" alt="GitHub Streak" /></p>
-</div>
+Want to know more? Feel free to reach out.
